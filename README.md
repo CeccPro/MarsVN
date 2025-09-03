@@ -116,4 +116,5 @@ return {
 
 - Motor creado por CeccPro
 - Estructura y código modular, fácil de extender.
-- Licencia: MIT (puedes modificar y usar libremente, da crédito si lo distribuyes)
+- Licencia: GLP v3
+
