@@ -1,0 +1,11 @@
+return function(engine)
+    engine:fadeIn(500)
+    engine:loadCharacter("keiko", "keiko_schoolsummer", "sad", 250, -125, 1)
+    engine:showCharacter("keiko")
+    engine:wait(500)
+    engine:showText("txt01", 500, 0.7, {0, 0, 0, 1})
+    engine:wait(500)
+    engine:fadeOut(500)
+    engine:wait(700)
+    engine:exit()
+end
