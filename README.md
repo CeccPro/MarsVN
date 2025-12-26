@@ -1,4 +1,4 @@
-# VN-Engine 1.0.0
+# MarsVN 0.1.0
 
 Motor de Visual Novel para LÖVE2D
 
@@ -117,4 +117,5 @@ return {
 - Motor creado por CeccPro
 - Estructura y código modular, fácil de extender.
 - Licencia: GLP v3
+
 
